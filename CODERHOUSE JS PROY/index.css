@@ -1,0 +1,17 @@
+#carrito {
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+
+  .Titulo {
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Mukta', sans-serif;
+  }
+
+  .imagen-tamano {
+    width: 286px;
+    height:266px;
+  }
+  
+  

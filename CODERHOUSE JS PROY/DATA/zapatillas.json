@@ -1,0 +1,73 @@
+[
+  {
+  "id": 1,
+  "nombre": "NIKE DUNK HI X AMBUSH",
+  "precio": 110,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 2,
+  "nombre": "LOUIS VUITTON VOLTAIRE",
+ "precio": 500,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 3,
+ "nombre": "AIR FORCE 1 '07 QS",
+ "precio": 115,
+  "carrito": false,
+  "oferta" : false
+
+},
+{
+  "id": 4,
+ "nombre": "Dior ID",
+  "precio": 890,
+ "carrito": false,
+ "oferta" : true
+},
+{
+ "id": 5,
+  "nombre": "ZAPATILLAS STAN SMITH DISNEY MONSTERS, INC.",
+  "precio": 60,
+  "carrito": false,
+  "oferta" : true
+},
+{
+  "id": 6,
+  "nombre": "AIR JORDAN 1 RETRO HIGH OG",
+  "precio": 150,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 7,
+  "nombre": "NIKE DUNK HIGH 1985 'BLACK ACID WASH'",
+  "precio": 100,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 8,
+  "nombre": "AIR JORDAN 7 RETRO 'PSG'",
+  "precio": 210,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 9,
+  "nombre": "ZAPATILLAS ADIDAS X LEGO® SPORT",
+  "precio": 80,
+  "carrito": false,
+  "oferta" : false
+},
+{
+  "id": 10,
+  "nombre": "ZAPATILLAS SUPERSTAR BOLD",
+  "precio": 80,
+  "carrito": false,
+  "oferta" : true
+}
+]

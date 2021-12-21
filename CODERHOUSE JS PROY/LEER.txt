@@ -1,0 +1,9 @@
+¡Hola!
+Aprovecho este txt. para contar basicamente el contexto de la pagina. 
+Esta vendria a ser una pagina destinada a comprar zapatillas "unicas" y "exclusivas".
+Por ende solo se podria comprar 1 de cada zapatilla. Al menos x compra. 
+Creo que estuve en muchos detalles tanto de funcionalidad como de diseño (es responsive).
+Trate de que el diseño fuera minimalista, no cargar demasiado de efectos, contenido, etc.
+Espero que te sea placentero corregir la entrega + te resulte agradable utilizar el sitio.
+
+¡Saludos!
